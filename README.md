@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,4 +9,5 @@
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=Mathias231&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mathias231&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
