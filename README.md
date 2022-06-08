@@ -10,9 +10,9 @@
 -->
 
 <div>
-<!-- My stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias231&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <!-- My stats -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?    username=Mathias231&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-<!-- My top used languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias231&layout=compact&langs_count=16&theme=dark" />
+  <!-- My top used languages -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias231&layout=compact&langs_count=16&theme=dark" />
 </div>
