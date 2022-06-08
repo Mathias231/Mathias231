@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Mathias231 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=Mathias231&theme=radical)
