@@ -22,7 +22,7 @@
   
   <p align="center">
     <a>
-      interests and Skills
+      Interests and Skills
     </a>
   </p>
   <p align="center">
