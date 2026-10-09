@@ -14,4 +14,20 @@
 
   
   <!-- My top used languages -->
-<img src="https://ghstats.dev/api/langs?username=Mathias231&layout=grid" alt="Top Languages" />
+  <p align="center">
+    <a>
+      <img src="https://ghstats.dev/api/langs?username=Mathias231&layout=grid" alt="Top Languages" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a>
+      interests and Skills
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,discord,github,html,js,ts,lua,mysql,nextjs,react,mongodb,npm,ps,php,py,raspberrypi,tailwind,unity" />
+    </a>
+  </p>
+</div>
